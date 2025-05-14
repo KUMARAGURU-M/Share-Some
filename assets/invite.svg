@@ -1,0 +1,22 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Layer_1" clip-path="url(#clip0_844_930)">
+<g id="Group">
+<path id="Vector" d="M16.3335 10.5C16.3335 8.51667 14.8168 7 12.8335 7C10.8502 7 9.3335 8.51667 9.3335 10.5C9.3335 12.4833 10.8502 14 12.8335 14C14.8168 14 16.3335 12.4833 16.3335 10.5ZM12.8335 16.3333C18.2002 16.3333 19.8335 20.1833 19.8335 20.1833V22.1667H5.8335V20.1833C5.8335 20.1833 7.46683 16.3333 12.8335 16.3333Z" fill="#FC9C4C"/>
+</g>
+<g id="Group_2">
+<g id="Group_3">
+<path id="Vector_2" d="M5.24984 12.8333C3.63901 12.8333 2.33317 11.5275 2.33317 9.91667C2.33317 8.30584 3.63901 7 5.24984 7C6.86067 7 8.1665 8.30584 8.1665 9.91667C8.1665 11.5275 6.86067 12.8333 5.24984 12.8333Z" fill="#FC9C4C"/>
+</g>
+<g id="Group_4">
+<path id="Vector_3" d="M5.24994 15.1667C6.64994 15.1667 7.69993 15.5167 8.5166 16.1001C5.83327 17.3834 4.78327 19.6001 4.78327 19.8334V19.9501H-6.38962e-05V18.4334C-6.38962e-05 18.3167 1.28327 15.1667 5.24994 15.1667Z" fill="#FC9C4C"/>
+</g>
+</g>
+<path id="Vector_4" d="M22.1665 9.33325V18.6666" stroke="#FC9C4C" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_5" d="M17.5002 14H26.8335" stroke="#FC9C4C" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_844_930">
+<rect width="28" height="28" fill="white" transform="matrix(-1 0 0 1 28 0)"/>
+</clipPath>
+</defs>
+</svg>
