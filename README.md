@@ -51,7 +51,7 @@ Here is a high-level overview of the application's workflow:
 <img width="1408" height="602" alt="image" src="https://github.com/user-attachments/assets/f432967d-3495-4be4-a9e1-a6ec14e7c380" />
 
 
-# 🤝 Author : Suriya SK ,Surendar B, Gnaneshwaran JS ,KumaraGuru M, Sharath R
+# 🤝 Author : KumaraGuru M, Suriya SK ,Surendar B, Gnaneshwaran JS , Sharath R
 
 
 
